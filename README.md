@@ -6,7 +6,7 @@ This is a simple audio player requested to me from my friend [Víctor](http://vi
 
 Load the script in your web page
 
-    <script src="//cdn.rawgit.com/davidayalas/html5-audio-player/master/lib/dasplayer.js"></script>
+    <script src="https://cdn.rawgit.com/davidayalas/html5-audio-player/master/lib/dasplayer.js"></script>
 
 
 The basic use is:
@@ -47,7 +47,7 @@ The basic use is:
 
 #Samples
 
-http://cdn.rawgit.com/davidayalas/html5-audio-player/master/test/index.htm
+https://cdn.rawgit.com/davidayalas/html5-audio-player/master/test/index.html
 
 ** TODO **
 
