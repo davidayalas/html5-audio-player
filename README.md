@@ -47,7 +47,7 @@ The basic use is:
 
 #Samples
 
-https://cdn.rawgit.com/davidayalas/html5-audio-player/master/test/index.html
+https://rawgit.com/davidayalas/html5-audio-player/master/test/index.html
 
 ** TODO **
 
